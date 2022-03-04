@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MithunB-github
+- 👋 Hi, I’m @MithunB6
 - 👀 I’m interested in ... Entrepreneurship, freelancing.
 - 🌱 I’m currently learning ... Pyhton, Automation.
 - 💞️ I’m looking to collaborate on ... Projects and clients.
